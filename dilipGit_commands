@@ -1,0 +1,20 @@
+    1  apt -get install get -y
+    2  abt -get install get -y
+    3  apt -get install get -y
+    4  apt -get
+    5  apt-get update; apt-get install get -y
+    6  git.exe clone https://github.com/DilipKumar6043/acc-train.git
+    7  git clone https://github.com/DilipKumar6043/acc-train.git
+    8  ls 
+    9  pwd
+   10  ls
+   11  cd acc-train.git
+   12  cd acc-train.git/
+   13  cd acc-train
+   14  ls
+   15  ls\
+   16  echo "Dilip"|git hash-object --stdin -w
+   17  git cat -file ef474a39fe0759f9d5f917db5f7ee1a7c5bef773 -p
+   18  git cat-file ef474a39fe0759f9d5f917db5f7ee1a7c5bef773 -p
+   19  history 
+   20  history > dilipGit_commands
